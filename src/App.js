@@ -5,9 +5,10 @@ import HOC from './pages/HOC';
 
 function App() {
   return (
-    <Routes>
-      <Route path='/hoc' element={<HOC />} />
-    </Routes>
+    <div />
+    // <Routes>
+    //   <Route path='/hoc' element={<HOC />} />
+    // </Routes>
   );
 }
 
